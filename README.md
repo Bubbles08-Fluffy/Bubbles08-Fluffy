@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaylin
 - 👀 I’m interested in reading, anime, and playing with my dog
-- 🌱 I’m currently learning Javascript, Html, and SQL
+- 🌱 I’m currently learning Javascript, HtML/CSS, SQL, and Python
 - 😄 Pronouns: She/Her
 
 <!---
